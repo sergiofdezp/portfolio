@@ -6,7 +6,7 @@ body{
 }
 
 #sergio {
-  background-image: url('/img/portada.webp'); /* Reemplaza 'tu-imagen.jpg' con la URL de tu imagen */
+  background-image: url('../img/portada.webp'); /* Reemplaza 'tu-imagen.jpg' con la URL de tu imagen */
   background-size: cover;
   background-position: center;
   width: 100%;
